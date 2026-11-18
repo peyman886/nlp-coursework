@@ -9,11 +9,12 @@ This repository contains the work and findings of our project, which explores th
   - `NLP_Yaghoub_Project.ipynb`: Main evaluation notebook detailing the project's principles, methodologies, and findings.
 
 - **Data Samples:**
-  - `sample_data.csv`, `sample_data_gpt.csv`: sample datasets for the preliminary analysis and the ChatGPT evaluation (12–14 MB each, kept on Google Drive under `nlp-coursework/`).
+  - `sample_data.csv`: sample dataset extracted for preliminary analysis.
+  - `sample_data_gpt.csv`: sample dataset prepared for the ChatGPT evaluation.
   - `subsample_data_llama.csv`: Subsample dataset used for additional analysis with alternative models.
 
 - **Documentation:**
-  - `report/`: title page, two proposal drafts and the final report (PDF). The presentation deck is on Google Drive.
+  - `report/`: title page, two proposal drafts, the final report and the presentation (`4. presentation.pptx`).
 
 ## Setup and Installation
 

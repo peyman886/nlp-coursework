@@ -47,7 +47,6 @@ Midterm and final exam papers are in the same folder.
 The final project of this course, **Parsi-IO** (a Farsi writing assistant),
 now has its own repository: [peyman886/parsi-io](https://github.com/peyman886/parsi-io).
 
-## Large files
+## Not included
 
-Lecture slides and notes, presentation decks and datasets over 5 MB are on
-Google Drive under `nlp-coursework/`, not in git.
+Lecture slides and notes of these courses are not stored here.
